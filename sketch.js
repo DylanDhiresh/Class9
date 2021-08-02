@@ -6,7 +6,7 @@ box = createSprite(100,60,10,50)
 
 function draw() 
 {
-background(30);
+background(123);
 if(keyIsDown(LEFT_ARROW)){
 box.position.x = box.position.x - 5
 }
